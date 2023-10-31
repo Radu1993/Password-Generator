@@ -5,7 +5,7 @@ but at the end I couldn't make it to generate a password.
 
 ## Intsallation
 The website can be viewed at :
- https://radu1993.github.io/Password-Generator/
+https://github.com/Radu1993/Password-Generator.git
  
  IT'S  DOES NOT REQUIRE ANY INSTALLATION TO RUN!
 
